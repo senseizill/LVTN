@@ -1,6 +1,6 @@
 # LVTN
 
-Đây là project Luận Văn Tốt Nghiệp.
+Đây là project Luận Văn Tốt Nghiệp CTU-K47 major: Electric and Cmmunication Engineering
 
 ## 📂 Cấu trúc thư mục
 - `main.cc` : file chính chạy chương trình
