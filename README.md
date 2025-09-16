@@ -1,8 +1,8 @@
 # LVTN
 
-Đây là project Luận Văn Tốt Nghiệp CTU-K47 major: Electric and Cmmunication Engineering
+## Đây là project Luận Văn Tốt Nghiệp CTU-K47 major: Electric and Cmmunication Engineering
 
-## 📂 Cấu trúc thư mục
+## 📂 Cấu trúc luận văn bao gồm
 - `main.cc` : file chính chạy chương trình
 - `test1.cc` : file thử nghiệm hàm
 
